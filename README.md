@@ -1,5 +1,6 @@
 # publicservant_AI
-
+## 소개
+텐서플로우와 HUGGINGFACE 라이브러리를 활용해서
 트랜스포머 계열인 BERT, GPT 등을 활용한 자연어 처리 기법 실무 활용 방법을 다룹니다.  
 구글 Colaboratory로 직접 실행해 보면서 할 수 있게 만들었습니다.
 
